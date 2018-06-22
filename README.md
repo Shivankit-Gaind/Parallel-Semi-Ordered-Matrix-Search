@@ -10,6 +10,6 @@ each row is sorted (in increasing order) and each column is sorted (in the same 
 
 B. Implement your parallel algorithm for (A) using OpenMP in C/C++.
 
-c) Measure the performance for different sizes of M in the range 10 3 x 10 3 to 10 5 x 10 5 . For each size measure the performance for p = 1, 2, .. 2 q where p is the number of cores used.
+C. Measure the performance for different sizes of M in the range 10 3 x 10 3 to 10 5 x 10 5 . For each size measure the performance for p = 1, 2, .. 2 q where p is the number of cores used.
 
 The design, measurements and inferences are summarized in the design document.
