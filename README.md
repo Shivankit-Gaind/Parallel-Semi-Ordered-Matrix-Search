@@ -1,6 +1,8 @@
 # Parallel-Semi-Ordered-Matrix-Search
 
-The problem stament is described as follows:
+The repository contains solution to one of the assignments of the course Parallel Computing in BITS Pilani.
+
+The problem statement is described as follows:
 
 A. Use divide-and-conquer to design a PRAM algorithm for the following problem:
 Given a semi-ordered matrix M of numbers find (the position of) a given number K in M. A semi-ordered matrix is one in which
